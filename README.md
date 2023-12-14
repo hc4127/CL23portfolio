@@ -1,5 +1,4 @@
-# Video Project Name
-Communications Lab Final Portfolio
+# Communications Lab Final Portfolio
 
 ### Project Description
 This is a compilation of all the big projects I've done this year. This includes the 30MFF Video Project, the Interactive Comic Project, the Audio Project, and of course, the Video Project. I decided to not include the smaller assignments but I might change my mind on that.
